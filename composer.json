@@ -1,0 +1,19 @@
+{
+    "name": "ruogoo/flash",
+    "description": "Flash component for ruogoo.",
+    "authors": [
+        {
+            "name": "HyanCat",
+            "email": "hyancat@live.cn"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ruogoo\\Flash\\": "src/"
+        }
+    }
+}
